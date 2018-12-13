@@ -1,2 +1,3 @@
 # myGitProject
-This is for tutorial purpose
+This is for git tutorial purpose
+abcd
